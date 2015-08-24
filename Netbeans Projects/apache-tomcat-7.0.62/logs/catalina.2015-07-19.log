@@ -1,0 +1,12 @@
+juil. 19, 2015 1:04:07 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Download metadata
+juil. 19, 2015 1:04:07 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Download metadata. 2 ms
+juil. 19, 2015 9:54:53 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Fingerprint cleanup
+juil. 19, 2015 9:54:53 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Fingerprint cleanup. 2 ms
+juil. 19, 2015 5:18:36 PM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Workspace clean-up
+juil. 19, 2015 5:18:36 PM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Workspace clean-up. 7 ms

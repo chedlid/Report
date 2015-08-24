@@ -1,0 +1,7 @@
+In Alistair Cockburn’s book “Writing Effective Use Cases” (2) Actors are further defined as follows:
+
+Primary Actor: The primary actor of a use case is the stakeholder that calls on the system to deliver one of its services. It has a goal with respect to the system – one that can be satisfied by its operation. The primary actor is often, but not always, the actor who triggers the use case.
+
+ 
+
+Supporting Actors: A supporting actor in a use case in an external actor that provides a service to the system under design. It might be a high-speed printer, a web service, or humans that have to do some research and get back to us.

@@ -1,0 +1,16 @@
+While working with JDBC API for database connectivity, we can use Statement or PreparedStatement to execute queries. These queries can be CRUD operation queries or even DDL queries to create or drop tables.
+
+JDBC Statement has some major issues and should be avoided in all cases, let’s see this with a simple example.
+
+As you can see that we are able to get the user details even without having password. The key point to note here is that query is created through String concatenation and if we provide proper input, we can hack the system, like here we did by passing user id as david@gmail.com’ or ‘1’=’1. This is an example of “SQL Injection” where poor programming is responsible for making our application vulnerable for unauthorized database access.
+
+Some points to remember about JDBC PreparedStatement are:
+
+PreparedStatement helps us in preventing SQL injection attacks because it automatically escapes the special characters.
+PreparedStatement allows us to execute dynamic queries with parameter inputs.
+PreparedStatement provides different types of setter methods to set the input parameters for the query.
+PreparedStatement is faster than Statement. It becomes more visible when we reuse the PreparedStatement or use it’s batch processing methods for executing multiple queries.
+PreparedStatement helps us in writing object Oriented code with setter methods whereas with Statement we have to use String Concatenation to create the query. If there are multiple parameters to set, writing Query using String concatenation looks very ugly and error prone.
+PreparedStatement returns FORWARD_ONLY ResultSet, so we can only move in forward direction.
+Unlike Java Arrays or List, the indexing of PreparedStatement variables starts with 1.
+One of the limitation of PreparedStatement is that we can’t use it for SQL queries with IN clause because PreparedStatement doesn’t allow us to bind multiple values for single placeholder (?). However there are few alternative approaches to use PreparedStatement for IN clause, read more at JDBC PreparedStatement IN clause.

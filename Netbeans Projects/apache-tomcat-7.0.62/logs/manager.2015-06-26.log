@@ -1,0 +1,148 @@
+juin 26, 2015 9:50:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+juin 26, 2015 9:50:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Global resources are available
+juin 26, 2015 9:50:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 9:52:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+juin 26, 2015 9:52:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+juin 26, 2015 9:52:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 9:52:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 9:52:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 9:52:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 9:52:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/NunitToDbRESTful'
+juin 26, 2015 9:52:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/cdhouibi/AppData/Local/Temp/context6307335765240938003.xml'
+juin 26, 2015 9:52:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/NunitToDbRESTful'
+juin 26, 2015 10:13:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 10:13:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/NunitToDbRESTful'
+juin 26, 2015 11:21:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+juin 26, 2015 11:21:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Global resources are available
+juin 26, 2015 11:21:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 11:21:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 11:21:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/NunitToDbRESTful'
+juin 26, 2015 11:21:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 11:22:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/WebApplication1'
+juin 26, 2015 11:22:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 11:22:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/WebApplication2'
+juin 26, 2015 11:22:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 11:22:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/docs'
+juin 26, 2015 11:22:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 11:22:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/examples'
+juin 26, 2015 11:22:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 11:22:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/NunitToDbREST'
+juin 26, 2015 11:22:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 11:22:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:38:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+juin 26, 2015 12:38:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+juin 26, 2015 12:38:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:39:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:40:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: install: Installing web application '/NunitToDbRESTful' from 'file:////C:\NunitToDbREST\dist'
+juin 26, 2015 12:40:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:41:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: install: Installing web application '/NunitToDbRESTful2' from 'file:////C:\NunitToDbREST\dist'
+juin 26, 2015 12:41:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:43:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:43:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: restart: Reloading web application '/NunitToDbRESTful'
+juin 26, 2015 12:43:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:44:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:44:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:44:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:44:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:44:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:44:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:44:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:44:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:44:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:46:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+juin 26, 2015 12:46:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Global resources are available
+juin 26, 2015 12:46:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 12:46:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 1:59:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 2:03:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+juin 26, 2015 2:03:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+juin 26, 2015 2:09:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 2:20:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 2:21:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/NunitToDbRESTful'
+juin 26, 2015 2:21:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: serverinfo
+juin 26, 2015 2:21:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: sessions: Session information for web application 'NunitToDbRESTful'
+juin 26, 2015 2:21:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: sessions: Session information for web application '/NunitToDbRESTful'
+juin 26, 2015 4:34:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 4:35:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 4:35:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 4:35:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 4:36:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 4:37:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 4:39:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 4:41:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 4:50:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juin 26, 2015 4:50:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'

@@ -1,0 +1,21 @@
+insert into Team(ID,Team_name,Team_key,squad_name) values(1,'Logistics','GLOB','GlobalCustoms');
+insert into Team(ID,Team_name,Team_key,squad_name) values(2,'Logistics','MSWLC','Manufacturing Software Logistics Carrier');
+insert into Team(ID,Team_name,Team_key,squad_name) values(3,'Logistics','MSWSC','Manufacturing Software Logistics Supply Chain');
+
+insert into Team(ID,Team_name,Team_key,squad_name) values(4,'Production','PBT','Binning');
+insert into Team(ID,Team_name,Team_key,squad_name) values(5,'Production','MSWINST','Manufacturing Software Instrumentation');
+insert into Team(ID,Team_name,Team_key,squad_name) values(6,'Production','MSWQ','Manufacturing Software Shopfloor Quality');
+insert into Team(ID,Team_name,Team_key,squad_name) values(7,'Production','MSWPP','Manufacturing Software Production Planning');
+
+---insert into Team(ID,Team_name,Team_key,squad_name) values(8,'MSW-WIDE','MSWQE','Manufacturing Software QE');
+insert into Team(ID,Team_name,Team_key,squad_name) values(9,'MSW-WIDE','MSWQR','Manufacturing Software QE Release');
+insert into Team(ID,Team_name,Team_key,squad_name) values(10,'MSW-WIDE','MSWUX','Manufacturing Software User Experience');
+insert into Team(ID,Team_name,Team_key,squad_name) values(11,'MSW-WIDE','MSW','MSW Infrastructure');
+insert into Team(ID,Team_name,Team_key,squad_name) values(12,'MSW-WIDE','KIS_SETUP','MSW KIS setup ');
+---insert into Team(ID,Team_name,Team_key,squad_name) values(13,'MSW-WIDE','VIPAUT','Viper automation');
+
+insert into Team(ID,Team_name,Team_key,squad_name) values(14,'PMI','MIB','Manufacturing Software IVB');
+
+insert into Team(ID,Team_name,Team_key,squad_name) values(15,'Manufacturing Integration','PMI','Production Manufacturing Integration');
+
+-- missing quoting and planning / Orders

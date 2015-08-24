@@ -1,0 +1,40 @@
+juil. 07, 2015 10:55:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+juil. 07, 2015 10:55:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+juil. 07, 2015 10:55:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juil. 07, 2015 10:55:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juil. 07, 2015 10:55:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/NunitToDbRESTful'
+juil. 07, 2015 10:55:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/cdhouibi/AppData/Local/Temp/context4731681929621796491.xml'
+juil. 07, 2015 10:55:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/NunitToDbRESTful'
+juil. 07, 2015 10:56:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juil. 07, 2015 10:56:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juil. 07, 2015 10:56:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/NunitToDbRESTful'
+juil. 07, 2015 10:56:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/cdhouibi/AppData/Local/Temp/context3963002415622562338.xml'
+juil. 07, 2015 10:56:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/NunitToDbRESTful'
+juil. 07, 2015 10:59:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/NunitToDbRESTful'
+juil. 07, 2015 12:20:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juil. 07, 2015 12:20:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+juil. 07, 2015 12:20:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/NunitToDbRESTful'
+juil. 07, 2015 12:20:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/cdhouibi/AppData/Local/Temp/context8843829526393319299.xml'
+juil. 07, 2015 12:20:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/NunitToDbRESTful'
+juil. 07, 2015 12:21:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/NunitToDbRESTful'
+juil. 07, 2015 12:22:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/NunitToDbRESTful'
