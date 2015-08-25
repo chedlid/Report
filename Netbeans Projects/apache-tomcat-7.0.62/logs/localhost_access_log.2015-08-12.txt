@@ -1,7 +1,0 @@
-127.0.0.1 - - [12/Aug/2015:13:13:56 +0100] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
-127.0.0.1 - - [12/Aug/2015:13:13:56 +0100] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
-127.0.0.1 - - [12/Aug/2015:13:13:56 +0100] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
-127.0.0.1 - chedli [12/Aug/2015:13:13:56 +0100] "GET /manager/text/list HTTP/1.1" 200 176
-127.0.0.1 - - [12/Aug/2015:13:14:01 +0100] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
-127.0.0.1 - - [12/Aug/2015:13:14:01 +0100] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
-127.0.0.1 - chedli [12/Aug/2015:13:14:01 +0100] "GET /manager/text/list HTTP/1.1" 200 176
